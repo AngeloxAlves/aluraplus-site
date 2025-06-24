@@ -6,7 +6,7 @@ Você pode acessar o <a href="https://angeloxalves.github.io/aluraplus-site/">li
 
 ## ✔️ Técnicas e tecnologias utilizadas
 
-- ``HYML``
+- ``HTML``
 - ``CSS``
 
 - # Autor
